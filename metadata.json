@@ -1,0 +1,6 @@
+{
+  "name": "Waypoint",
+  "description": "Real-time live location sharing between devices with Firebase Realtime Database, Google Maps tracking, geofencing alerts, background service, battery efficiency, and offline mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
